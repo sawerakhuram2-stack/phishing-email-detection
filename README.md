@@ -1,6 +1,6 @@
 # AI Phishing Email Classifier
 
-A beginner-friendly Python project using a pretrained Hugging Face model to analyze email text and return a predicted class with scores.
+![Project Logo](AI%20Phishing%20Email%20Detector.png)
 
 ## Features
 - Analyze text pasted by the user
